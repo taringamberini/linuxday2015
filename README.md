@@ -1,5 +1,4 @@
-Source code of the example used in the example of my
-LinuxDay 2015 talk.
+Source code of the example used in my LinuxDay 2015 talk.
 
 To get the mutation coverage report run the goal:
 
